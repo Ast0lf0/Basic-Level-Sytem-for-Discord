@@ -1,0 +1,15 @@
+{
+  "name": "level-system-bot",
+  "version": "0.0.1",
+  "description": "Level system made using DiscordJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sakurako#9399",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "fs": "0.0.1-security"
+  }
+}
